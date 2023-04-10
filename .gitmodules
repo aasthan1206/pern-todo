@@ -1,0 +1,6 @@
+[submodule "pern-todo"]
+	path = pern-todo
+	url = https://github.com/aasthan1206/pern-todo.git
+[ submodule "client"]
+	path = pern-todo/client
+	url = https://github.com/aasthan1206/pern-todo.git
